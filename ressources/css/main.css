@@ -1,0 +1,12 @@
+/* 
+    Created on : 20.01.2019, 16:44:52
+    Author     : Dennis Lange
+*/
+
+html, body {
+    background: #4c3f49;
+    padding:0;
+    border:0;
+    margin:0;
+    overflow: hidden;
+}
